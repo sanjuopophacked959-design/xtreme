@@ -1,0 +1,17 @@
+{
+"showDialog": false,
+"latestVersionCode": 2,
+"latestVersionName": "1.1",
+"title": "Message By VORTEX CHEATS",
+"message": "THIS MOD APK UNDER MAINTENANCE FEEDBACK JARUR SHARE KARE",
+"UpdateButtonText": "ᴏᴡɴʟᴏᴀᴅ",
+"UpdateButtonUrl": "{
+"showDialog": false,
+"latestVersionCode": 2,
+"latestVersionName": "1.1",
+"title": "Message By VORTEX CHEATS",
+"message": "THIS MOD APK UNDER MAINTENANCE FEEDBACK JARUR SHARE KARE",
+"UpdateButtonText": "ᴏᴡɴʟᴏᴀᴅ",
+"UpdateButtonUrl": "https://t.me/+HjbKr54HiYM4NjFl"
+}"
+}
